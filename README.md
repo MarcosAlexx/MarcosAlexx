@@ -102,6 +102,15 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
+<img
+  align="left"
+  alt="cPanel"
+  title="cPanel"
+  width="30px"
+  style="padding-right: 10px; "
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg"
+/>
+
 <br/>
 <br/>
 
