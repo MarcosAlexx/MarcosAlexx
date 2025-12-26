@@ -4,7 +4,11 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Marcos Alexander Roldan de Lara, tenho 23 anos e sou natural de Buenos Aires. Concluí o ensino médio no IFPR, com o curso técnico em informática já emendando o curso de Análise e Desenvolvimento de sistemas logo em seuigda. Atualmente, traalho como Desenvolvedor Back-End na empresa Easyname Soluções Digitais. Estou sempre em busca de novos aprendizados e melhorar oque já sei, afinal, conhecimento nunca é de mais.
+Meu nome é Marcos Alexander Roldan de Lara, tenho 23 anos e sou natural de Buenos Aires.
+Concluí o ensino médio no IFPR, onde cursei o técnico em Informática, dando continuidade de forma integrada ao curso de Análise e Desenvolvimento de Sistemas.
+
+Atualmente, atuo como Desenvolvedor Back-End na Easyname Soluções Digitais, trabalhando no desenvolvimento e manutenção de soluções robustas e escaláveis.
+Sou movido pela busca constante por novos aprendizados e pelo aprimoramento contínuo das minhas habilidades, pois acredito que conhecimento nunca é demais.
 
 ---
 
