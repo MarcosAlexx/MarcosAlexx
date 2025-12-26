@@ -10,7 +10,7 @@ Concluí o ensino médio no IFPR, onde cursei o técnico em Informática, dando 
 Atualmente, atuo como Desenvolvedor Back-End na Easyname Soluções Digitais, trabalhando no desenvolvimento e manutenção de soluções robustas e escaláveis.
 Sou movido pela busca constante por novos aprendizados e pelo aprimoramento contínuo das minhas habilidades, pois acredito que conhecimento nunca é demais.
 
----
+##
 
 ### 🤖 Contato
 
@@ -41,7 +41,7 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 
 </div>
 
----
+##
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -104,26 +104,30 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 <br/>
 <br/>
 
+##
+
 ### 📊 Estatísticas
 
 
-<div align="center">
+<div align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosalexx&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosalexx&theme=github_dark"
     height="180"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosalexx&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosalexx&theme=github_dark"
     height="180"
   />
 </div>
 
 
-
-
+<br>
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+<div align="right">
+  <img
+    src="https://raw.githubusercontent.com/MarcosAlexx/assets/main/download.gif"
+    alt="Pixel art dev room"
+  />
+</div>
 
