@@ -63,9 +63,9 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
+    alt="Php" 
+    title="Php"
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -79,25 +79,26 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 />
 <img 
     align="left" 
-    alt="docker"
-    title="docker" 
-    width="30px" 
+    alt="Docker"
+    title="Docker" 
+    width="33px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/github/FFFFFF"      
 />
 <img 
     align="left" 
-    alt="mysql"
-    title="mysql" 
-    width="30px" 
+    alt="Mysql"
+    title="Mysql" 
+    width="31px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
