@@ -1,19 +1,24 @@
-<h2 align="left">Olá 👋! Meu nome é Marcos</h2>
 
 
+#
 
-<p align="center">Atualmente trabalho como Desenvolvedor Back-End na empresa Easyname Soluções Digitais.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">
+Desenvolvedor Back-End na Easyname Soluções Digitais, sempre em busca de aprimoramento técnico e novos desafios profissionais.
+</p>
+
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:marcos.roldanlara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marcosalexander/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_oalexander_/)
 
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosalexx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">My Stacks </h3>
 
-
-##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="12" />
@@ -23,17 +28,63 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="Php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
-##
 
-<div align="left">
-  <a href="https://www.instagram.com/_oalexander_/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram do Marcos Alexx" />
-</a>
+#
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div style="text-align: center;" align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
+      ?username=MarcosAlexx
+      &hide_title=true
+      &show_icons=true
+      &include_all_commits=true
+      &count_private=true
+      &line_height=25
+      &hide=issues
+      &bg_color=000
+      &title_color=00C2FF
+      &text_color=FFFFFF
+      &border_radius=6
+      &border_color=00C2FF
+      &icon_color=00C2FF
+      &theme=dark"
+    alt="Marcos GitHub stats"
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/
+      ?username=MarcosAlexx
+      &layout=compact
+      &langs_count=5
+      &hide=html,css
+      &bg_color=000
+      &title_color=00C2FF
+      &text_color=FFFFFF
+      &border_radius=6
+      &border_color=00C2FF"
+    alt="Most Used Languages"
+  />
 </div>
-##
+
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
