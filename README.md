@@ -15,6 +15,14 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 ### 🤖 Contato
 
 <div align="left">
+<a href="https://wa.me/5541984082841?text=Ol%C3%A1%2C%20estou%20entrando%20em%20contato%20referente%20a%20uma%20vaga." target="_blank">
+  <img 
+    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    height="35"
+    alt="Whatsapp"
+  />
+</a>
+  
 <a href="mailto:marcos.roldanlara@gmail.com" target="_blank">
   <img 
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
@@ -98,31 +106,24 @@ Sou movido pela busca constante por novos aprendizados e pelo aprimoramento cont
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarcosAlexx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosalexx&theme=tokyonight"
+    height="180"
   />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosalexx&theme=tokyonight"
+    height="180"
+  />
+</div>
 
+
+
+
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-
-
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosAlexx/MarcosAlexx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosAlexx/MarcosAlexx/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlexx/MarcosAlexx/output/github-contribution-grid-snake.svg">
-</picture>
